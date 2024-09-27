@@ -1,0 +1,23 @@
+.tableStyle {
+    margin: 0 auto;
+    width: 90%;
+    border-collapse: collapse;
+     
+}
+
+
+.bodyStyle {
+ background-color: rgb(93, 187, 187);
+ width: 300px;
+ /* text-align: center; */
+
+}
+
+.headStyle {
+    background-color: rgb(136, 85, 183);
+}
+
+.bodyStyle tr:nth-child(even) {
+ background-color: rgb(191, 113, 113);
+}
+
